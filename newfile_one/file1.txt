@@ -1,0 +1,7 @@
+total 12
+-rw-r--r-- 1 Irfan Shaikh 197121 8150 Nov  2 18:11 new1.txt
+drwxr-xr-x 1 Irfan Shaikh 197121    0 Nov  2 18:11 newfile/
+drwxr-xr-x 1 Irfan Shaikh 197121    0 Nov  2 18:14 newfile_one/
+-rw-r--r-- 1 Irfan Shaikh 197121  837 Nov  2 18:11 pom.xml
+drwxr-xr-x 1 Irfan Shaikh 197121    0 Nov  2 18:11 simple/
+drwxr-xr-x 1 Irfan Shaikh 197121    0 Nov  2 18:11 src/
